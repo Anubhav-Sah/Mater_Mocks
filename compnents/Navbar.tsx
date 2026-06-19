@@ -48,13 +48,13 @@ export default function Navbar() {
                   Banking & Insurance
                 </div>
                 <div className="flex flex-col">
-                  <Link href="#" className="px-3 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-50 hover:text-[#D00113] rounded-md transition-colors block">
+                  <Link href="/tests" className="px-3 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-50 hover:text-[#D00113] rounded-md transition-colors block">
                     Reasoning
                   </Link>
-                  <Link href="#" className="px-3 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-50 hover:text-[#D00113] rounded-md transition-colors block">
+                  <Link href="/tests" className="px-3 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-50 hover:text-[#D00113] rounded-md transition-colors block">
                     Quant
                   </Link>
-                  <Link href="#" className="px-3 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-50 hover:text-[#D00113] rounded-md transition-colors block">
+                  <Link href="/tests" className="px-3 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-50 hover:text-[#D00113] rounded-md transition-colors block">
                     Current Affairs
                   </Link>
                 </div>
@@ -76,13 +76,13 @@ export default function Navbar() {
                   Banking & Insurance
                 </div>
                 <div className="flex flex-col">
-                  <Link href="#" className="px-3 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-50 hover:text-[#D00113] rounded-md transition-colors block">
+                  <Link href="/resources" className="px-3 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-50 hover:text-[#D00113] rounded-md transition-colors block">
                     Reasoning
                   </Link>
-                  <Link href="#" className="px-3 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-50 hover:text-[#D00113] rounded-md transition-colors block">
+                  <Link href="/resources" className="px-3 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-50 hover:text-[#D00113] rounded-md transition-colors block">
                     Quant
                   </Link>
-                  <Link href="#" className="px-3 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-50 hover:text-[#D00113] rounded-md transition-colors block">
+                  <Link href="/resources" className="px-3 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-50 hover:text-[#D00113] rounded-md transition-colors block">
                     Current Affairs
                   </Link>
                 </div>
